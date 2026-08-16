@@ -1,0 +1,11 @@
+{
+  "name": "plex",
+  "description": "Imported from GitHub: aarnav9soni-coder/nexusssssssssssssssss",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
