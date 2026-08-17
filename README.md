@@ -1,1 +1,1 @@
-# Welcome to your Dyad app
+The ULTIMATE AI Chatbot
